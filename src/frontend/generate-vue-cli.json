@@ -1,0 +1,9 @@
+{
+  "component": {
+    "default": {
+      "path": "src/components",
+      "withTest": false,
+      "withStory": false
+    }
+  }
+}

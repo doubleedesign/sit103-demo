@@ -1,0 +1,22 @@
+{
+	"name": "sit103-demo",
+	"version": "0.0.1",
+	"type": "module",
+	"author": "Leesa Ward",
+	"scripts": {
+		"dev": "nodemon"
+	},
+	"dependencies": {
+		"express": "^4.18.2",
+		"express-promise-router": "^4.1.1",
+		"lodash": "^4.17.21",
+		"mysql": "^2.18.1"
+	},
+	"devDependencies": {
+		"@types/node": "^20.11.14",
+		"@typescript-eslint/eslint-plugin": "^6.20.0",
+		"@typescript-eslint/parser": "^6.20.0",
+		"eslint": "^8.56.0",
+		"typescript": "^5.3.3"
+	}
+}

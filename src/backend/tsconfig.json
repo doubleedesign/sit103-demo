@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"module": "esnext",
+		"target": "es6",
+		"moduleResolution": "node",
+		"esModuleInterop": true,
+		"allowJs": true,
+		"allowSyntheticDefaultImports": true,
+		"declaration": true,
+		"isolatedModules": true,
+		"resolveJsonModule": true
+	}
+}

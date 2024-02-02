@@ -1,0 +1,15 @@
+{
+	"name": "sit103-data-processor",
+	"version": "0.0.1",
+	"description": "Script to process an XML file and insert the data into my database",
+	"type": "module",
+	"scripts": {
+		"import": "node --loader ts-node/esm index.ts"
+	},
+	"author": "Leesa Ward",
+	"dependencies": {
+		"fast-xml-parser": "^4.3.4",
+		"mysql2": "^3.9.1",
+		"ts-node": "^10.9.2"
+	}
+}
